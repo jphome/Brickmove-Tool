@@ -11,7 +11,7 @@
 	sdk文件部分python字节码代码，功能类比于Android中的jni，用于承接C++&Python，站在巨人肩膀上得来，不好意思开放源码，感兴趣者请搜索Easy Python Decompiler，一般人我都不告诉他
 
 ## Usage
-* 海康的工程商朋友
+* 扫码关注公众号，回复板砖神器即获得绿色软件包
 <pre>
 直接下载dist文件中的exe和dll文件，but请注意，不要放到中文文件夹中使用哦，会起不来。。。
 </pre>
@@ -34,6 +34,4 @@ down代码，编辑ui文件，撰写python代码，执行使用
 * TODO
 	设备IP地址配置、设备激活、设备osd配置规则功能实现
 
-## 贴心提示
-扫码to contact with ME ^_^
 ![gui](gui.jpg)
