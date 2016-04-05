@@ -32,4 +32,4 @@ step7 down代码，编辑ui文件，撰写python代码，执行使用
 * TODO
 	- 设备IP地址配置、设备激活、设备osd配置规则功能实现
 
-![gui](http://a1.qpic.cn/psb?/V14LBHoR2lu3hD/q43MSmllxKV3JJqZSe7J6u.oZc0DDrego1VRx0I1hIs!/b/dOEAAAAAAAAA&bo=sAOAAgAAAAAFABI!&rf=viewer_4&t=5)
+![gui](https://github.com/jphome/Brickmove-Tool/Brickmove-Tool.jpg)
