@@ -11,7 +11,7 @@
 sdk文件部分python字节码代码，功能类比于Android中的jni，用于承接C++&Python，站在巨人肩膀上得来，不好意思开放源码，感兴趣者请搜索Easy Python Decompiler，一般人我不告诉他。
 
 ### Usage
-* 工程商等小白用户，扫码关注微信公众号，回复“搬砖神器”即获得绿色软件包下载地址
+* 工程商等小白用户，扫码关注微信公众号（or搜索“天王盖地虎”），回复“搬砖神器”即获得绿色软件包下载地址
 <pre>
 软件纯天然绿色无污染，无须安装，即下即用，不定时更新加入新颖实用功能；but请注意，不要放到中文文件夹中使用哦，会起不来。。。
 </pre>
@@ -22,9 +22,7 @@ step2 安装pywin32-218.win32-py2.7.exe
 step3 安装PyQt-Py2.7-x86-gpl-4.9.4-1.exe
 step4 安装setuptools-1.1.5.tar.gz
 step5 安装PyInstaller-2.1.tar.gz
-step6 环境变量确认
-	PATH
-		C:\Python27\Scripts;C:\Python27;C:\Python27\Lib\site-packages\PyQt4;
+step6 环境变量确认 PATH C:\Python27\Scripts;C:\Python27;C:\Python27\Lib\site-packages\PyQt4;
 step7 down代码，编辑ui文件，撰写python代码，执行使用
 </pre>
 
