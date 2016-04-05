@@ -17,15 +17,15 @@ sdk文件部分python字节码代码，功能类比于Android中的jni，用于�
 </pre>
 * 动手能力比较强的朋友
 <pre>
-1. 安装python-2.7.5.msi
-2. 安装pywin32-218.win32-py2.7.exe
-3. 安装PyQt-Py2.7-x86-gpl-4.9.4-1.exe
-4. 安装setuptools-1.1.5.tar.gz
-5. 安装PyInstaller-2.1.tar.gz
-6. 环境变量确认
+step1 安装python-2.7.5.msi
+step2 安装pywin32-218.win32-py2.7.exe
+step3 安装PyQt-Py2.7-x86-gpl-4.9.4-1.exe
+step4 安装setuptools-1.1.5.tar.gz
+step5 安装PyInstaller-2.1.tar.gz
+step6 环境变量确认
 	PATH
 		C:\Python27\Scripts;C:\Python27;C:\Python27\Lib\site-packages\PyQt4;
-7. down代码，编辑ui文件，撰写python代码，执行使用
+step7 down代码，编辑ui文件，撰写python代码，执行使用
 </pre>
 
 ### 功能说明
